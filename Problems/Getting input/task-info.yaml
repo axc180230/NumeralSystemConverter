@@ -1,0 +1,18 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class InputClass {
+        public static String getString() {
+            // write your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9898
+status: Failed
+feedback:
+  message: |
+    Failed test #2 of 3. Wrong answer
+  time: Sat, 10 Oct 2020 16:52:02 UTC
+record: -1
